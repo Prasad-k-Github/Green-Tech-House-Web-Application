@@ -31,7 +31,7 @@ Follow these instructions to set up and run the Green-Tech House web application
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/Mufli-Mohideen/Green-Tech-House-Web-Application.git
+   git clone https://github.com/prasad-k-Github/Green-Tech-House-Web-Application.git
    cd green-tech-house-web
 
 2. **Set Up Firebase**
